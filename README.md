@@ -1,4 +1,4 @@
-# Advanced_Analytics_Thesis
+# Advanced Analytics Thesis
 
 End of Semester Thesis on Moving Averages. 
 
